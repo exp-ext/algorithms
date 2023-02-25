@@ -1,4 +1,4 @@
-<H1>Алгоритмы и структуры данных</H1>
+<h1>Алгоритмы и структуры данных</h1>
 
 <details> <summary><h2><a href="A_Monitoring.py">A. Мониторинг</a></h2></summary>
   <span>
@@ -15,7 +15,6 @@
   <p>Транспонированная матрица получается из исходной заменой строк на столбцы.</p>
   <p>Например, для матрицы <span class="tex-math-text">А</span> (слева) транспонированной будет следующая матрица (справа):</p>
   <p><img class="user-image" src="https://contest.yandex.ru/testsys/statement-image?imageId=69ff475b66bdbc91024d48b48ee588d5a58645a20b1433663a9e7981bef14e3d"></p>
-
   <h3>Формат ввода</h3>
   <span>
     <p>
@@ -56,6 +55,30 @@
     </tbody>
   </table>
 </details>
+
+<details> <summary><h2><a href="B_Todo_ list.py">B. Список дел</a></h2></summary>
+  <p>Васе нужно распечатать свой список дел на сегодня. Помогите ему: напишите функцию, которая печатает все его дела. Известно, что дел у Васи не больше 5000.</p>
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и печатает его элементы. Ниже дано описание структуры, которая задаёт узел списка. <!--l. 51--></p>
+  <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/B">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/B">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/B">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/B">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/B">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/B">go</a></li>
+  </ul>
+
+  <p><span style="font-weight: bold;">Решение надо отправлять только в виде файла с расширением,</span> <span style="font-weight: bold;">которое соответствует вашему языку. Иначе даже корректно</span> <span style="font-weight: bold;">написанное решение не пройдет тесты.</span></p>
+  <h3>Формат ввода</h3>
+  <div>
+    В качестве ответа сдайте только код функции, которая печатает элементы списка. Длина списка не превосходит 5000 элементов. Список не бывает пустым.
+  </div>
+  <h3>Формат вывода</h3>
+  <p>Функция должна напечатать элементы списка по одному в строке.</p>
+</details>
+
+
 
   <p>B. Список дел</p>
   <p>C. Нелюбимое дело</p>
