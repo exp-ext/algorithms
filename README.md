@@ -18,23 +18,23 @@
 <p>&nbsp;</p>
 <p><details> <summary> <strong><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a> </strong></summary>
   <p>&nbsp;</p>
-  <p>A. Мониторинг</p>
-  <p>B. Список дел</p>
-  <p>C. Нелюбимое дело</p>
-  <p>D. Заботливая мама</p>
-  <p>E. Всё наоборот</p>
-  <p>F. Стек - Max</p>
-  <p>G. Стек - MaxEffective</p>
-  <p>H. Скобочная последовательность</p>
-  <p>I. Ограниченная очередь</p>
-  <p>J. Списочная очередь</p>
-  <p>K. Рекурсивные числа Фибоначчи</p>
-  <p>L. Фибоначчи по модулю</p>
-  <p>A. Дек</p>
-  <p>B. Калькулятор</p>
+  <p><a href="1-Algorithms_and_data_structures/A_Monitoring.py">A. Мониторинг</a></p>
+  <p><a href="1-Algorithms_and_data_structures/B_Todo_list.py">B. Список дел</a></p>
+  <p><a href="1-Algorithms_and_data_structures/C_Unloved_business.py">C. Нелюбимое дело</a></p>
+  <p><a href="1-Algorithms_and_data_structures/D_Caring_mother.py">D. Заботливая мама</a></p>
+  <p><a href="1-Algorithms_and_data_structures/E_All_opposite.py">E. Всё наоборот</a></p>
+  <p><a href="1-Algorithms_and_data_structures/F_Stack_max.py">F. Стек - Max</a></p>
+  <p><a href="1-Algorithms_and_data_structures/G_Stack_MaxEffective.py">G. Стек - MaxEffective</a></p>
+  <p><a href="1-Algorithms_and_data_structures/H_Bracket_sequence.py">H. Скобочная последовательность</a></p>
+  <p><a href="1-Algorithms_and_data_structures/I_Limited_queue.py">I. Ограниченная очередь</a></p>
+  <p><a href="1-Algorithms_and_data_structures/J_List_with_queue.py">J. Списочная очередь</a></p>
+  <p><a href="1-Algorithms_and_data_structures/K_Recursive_Fibonacci_numbers.py">K. Рекурсивные числа Фибоначчи</a></p>
+  <p><a href="1-Algorithms_and_data_structures/L_Fibonacci_modulo.py">L. Фибоначчи по модулю</a></p>
+  <p><a href="1-Algorithms_and_data_structures/final_A_Deck.py">A. Дек</a></p>
+  <p><a href="1-Algorithms_and_data_structures/final_B_Calculator.py">B. Калькулятор</a></p>
 </details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong><a href="2-recursions">Рекурсия</a> </strong></summary>
+<p><details> <summary> <strong><a href="2-Recursions">Рекурсия</a> </strong></summary>
   <p>&nbsp;</p>
   <p>A. Генератор скобок</p>
   <p>B. Комбинации</p>
@@ -53,7 +53,7 @@
   <p>B. Эффективная быстрая сортировка</p>
 </details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong><a href="3-hash_functions">Хэш функции</a> </strong></summary>
+<p><details> <summary> <strong><a href="3-Hash_functions">Хэш функции</a> </strong></summary>
   <p>&nbsp;</p>
   <p>A. Полиномиальный хеш</p>
   <p>B. Сломай меня</p>
