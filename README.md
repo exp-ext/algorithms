@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://www.arvifox.com/wp-content/uploads/2020/11/shpargalka-2048x1473.png">
+</p>
+
 <p><details> <summary> <strong><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></strong></summary>
   <p>&nbsp;</p>
   <p><a href="0-Introduction_to_algorithms/A_evaluate_function.py">A. Значения функции</a></p>
