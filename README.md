@@ -1,4 +1,5 @@
-<p><details> <summary> <strong><a href="algorithms/Introduction_to_algorithms">Введение в алгоритмы</a> </strong></summary>
+<p><details> <summary> <strong><a href="Introduction_to_algorithms">Введение в алгоритмы</a> </strong></summary>
+  <p>&nbsp;</p>
   <p>A. Значения функции</p>
   <p>B. Чётные и нечётные числа</p>
   <p>C. Соседи</p>
