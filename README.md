@@ -1,4 +1,4 @@
-<p><details> <summary> <strong><a href="Introduction_to_algorithms">Введение в алгоритмы</a> </strong></summary>
+<p><details> <summary> <strong><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></strong></summary>
   <p>&nbsp;</p>
   <p>A. Значения функции</p>
   <p>B. Чётные и нечётные числа</p>
@@ -16,7 +16,8 @@
   <p>B. Ловкость рук</p>
 </details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong>Алгоритмы и структуры данных() </strong></summary>
+<p><details> <summary> <strong><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a> </strong></summary>
+  <p>&nbsp;</p>
   <p>A. Мониторинг</p>
   <p>B. Список дел</p>
   <p>C. Нелюбимое дело</p>
@@ -33,7 +34,8 @@
   <p>B. Калькулятор</p>
 </details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong>Рекурсия() </strong></summary>
+<p><details> <summary> <strong><a href="2-recursions">Рекурсия</a> </strong></summary>
+  <p>&nbsp;</p>
   <p>A. Генератор скобок</p>
   <p>B. Комбинации</p>
   <p>C. Подпоследовательность</p>
@@ -51,7 +53,8 @@
   <p>B. Эффективная быстрая сортировка</p>
 </details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong>Хэш функции() </strong></summary>
+<p><details> <summary> <strong><a href="3-hash_functions">Хэш функции</a> </strong></summary>
+  <p>&nbsp;</p>
   <p>A. Полиномиальный хеш</p>
   <p>B. Сломай меня</p>
   <p>C. Префиксные хеши</p>
