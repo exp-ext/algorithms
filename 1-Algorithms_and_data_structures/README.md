@@ -1,4 +1,4 @@
-<details><summary><H1>Алгоритмы и структуры данных</H1></summary>
+<H1>Алгоритмы и структуры данных</H1>
 
 <details> <summary><h2><a href="A_Monitoring.py">A. Мониторинг</a></h2></summary>
   <span>
@@ -55,6 +55,7 @@
       </tr>
     </tbody>
   </table>
+</details>
 
   <p>B. Список дел</p>
   <p>C. Нелюбимое дело</p>
@@ -69,4 +70,4 @@
   <p>L. Фибоначчи по модулю</p>
   <p>A. Дек</p>
   <p>B. Калькулятор</p>
-</details>
+
