@@ -1,19 +1,19 @@
 <p><details> <summary> <strong><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></strong></summary>
   <p>&nbsp;</p>
-  <p>A. Значения функции</p>
-  <p>B. Чётные и нечётные числа</p>
-  <p>C. Соседи</p>
-  <p>D. Хаотичность погоды</p>
-  <p>E. Самое длинное слово</p>
-  <p>F. Палиндром</p>
-  <p>G. Работа из дома</p>
-  <p>H. Двоичная система</p>
-  <p>I. Степень четырёх</p>
-  <p>J. Факторизация</p>
-  <p>K. Списочная форма</p>
-  <p>L. Лишняя буква</p>
-  <p>A. Ближайший ноль</p>
-  <p>B. Ловкость рук</p>
+  <p><a href="0-Introduction_to_algorithms/A_evaluate_function.py">A. Значения функции</a></p>
+  <p><a href="0-Introduction_to_algorithms/B_check_parity.py">B. Чётные и нечётные числа</a></p>
+  <p><a href="0-Introduction_to_algorithms/C_get_neighbours.py">C. Соседи</a></p>
+  <p><a href="0-Introduction_to_algorithms/D_get_weather_randomness.py">D. Хаотичность погоды</a></p>
+  <p><a href="0-Introduction_to_algorithms/E_get_longest_word.py">E. Самое длинное слово</a></p>
+  <p><a href="0-Introduction_to_algorithms/F_is_palindrome.py">F. Палиндром</a></p>
+  <p><a href="0-Introduction_to_algorithms/G_to_binary.py">G. Работа из дома</a></p>
+  <p><a href="0-Introduction_to_algorithms/H_get_sum.py">H. Двоичная система</a></p>
+  <p><a href="0-Introduction_to_algorithms/I_is_power_of_four.py">I. Степень четырёх</a></p>
+  <p><a href="0-Introduction_to_algorithms/J_factorize.py">J. Факторизация</a></p>
+  <p><a href="0-Introduction_to_algorithms/K_kget_sum.py">K. Списочная форма</a></p>
+  <p><a href="0-Introduction_to_algorithms/L_get_excessive_letter.py">L. Лишняя буква</a></p>
+  <p><a href="0-Introduction_to_algorithms/final_nearest_zero.py">A. Ближайший ноль</a></p>
+  <p><a href="0-Introduction_to_algorithms/final_sleight_of_hand.py">B. Ловкость рук</a></p>
 </details></p>
 <p>&nbsp;</p>
 <p><details> <summary> <strong><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a> </strong></summary>
