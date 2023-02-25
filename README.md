@@ -1,4 +1,4 @@
-<p><details> <summary> <strong><a href="algorithms/Sprint 0 - introduction to algorithms">Введение в алгоритмы</a> </strong></summary>
+<p><details> <summary> <strong><a href="algorithms/Introduction_to_algorithms">Введение в алгоритмы</a> </strong></summary>
   <p>A. Значения функции</p>
   <p>B. Чётные и нечётные числа</p>
   <p>C. Соседи</p>
