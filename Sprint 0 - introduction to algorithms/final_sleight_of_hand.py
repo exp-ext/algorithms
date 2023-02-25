@@ -41,7 +41,6 @@ B. Ловкость рук
 # 'Время':'90ms',
 # 'Память':'4.25Mb',
 # }
-# Спасибо за подсказку 👍
 
 from collections import Counter
 from typing import Tuple
