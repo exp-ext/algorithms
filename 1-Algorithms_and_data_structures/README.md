@@ -68,7 +68,6 @@
     <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/B">C#</a></li>
     <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/B">go</a></li>
   </ul>
-
   <p><span style="font-weight: bold;">Решение надо отправлять только в виде файла с расширением,</span> <span style="font-weight: bold;">которое соответствует вашему языку. Иначе даже корректно</span> <span style="font-weight: bold;">написанное решение не пройдет тесты.</span></p>
   <h3>Формат ввода</h3>
   <div>
@@ -76,14 +75,76 @@
   </div>
   <h3>Формат вывода</h3>
   <p>Функция должна напечатать элементы списка по одному в строке.</p>
+  <p>&nbsp;</p>
 </details>
 
+<details> <summary><h2><a href="C_Unloved_business.py">C. Нелюбимое дело</a></h2></summary>
+  <div>
+    Вася размышляет, что ему можно не делать из того списка дел, который он составил. Но, кажется, все пункты очень важные! Вася решает загадать число и удалить дело, которое идёт под этим номером. Список дел представлен в виде односвязного списка. Напишите функцию solution, которая принимает на вход голову списка и номер удаляемого дела и возвращает голову обновлённого списка.
+    <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и номер удаляемого элемента и возвращает голову обновлённого списка.</p>
+    <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+    <ul>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/C">c++</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/C">Java</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/C">js</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/C">Python</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/C">C#</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/C">go</a></li>
+    </ul>
+    <p><span style="font-weight: bold;">Решение надо отправлять только в виде файла с расширением,</span> <span style="font-weight: bold;">которое соответствует вашему языку. Иначе даже корректно</span> <span style="font-weight: bold;">написанное решение не пройдет тесты. </span></p>
+    <p>&nbsp;</p>
+  </div>
+  <h3>Формат ввода</h3>
+  <div>
+    Функция принимает голову списка и индекс элемента, который надо удалить (нумерация с нуля). Список содержит не более 5000 элементов. Список не бывает пустым.&nbsp;
+  </div>
+  <h3>Формат вывода</h3>
+  <p>Верните голову списка, в котором удален нужный элемент.</p>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="D_Caring_mother.py">D. Заботливая мама</a></h2></summary>
+  Мама Васи хочет знать, что сын планирует делать и когда. Помогите ей: напишите функцию solution, определяющую индекс первого вхождения передаваемого ей на вход значения в связном списке, если значение присутствует.
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и искомый элемент, а возвращает целое число &mdash; индекс найденного элемента или -1.</p>
+  <p style="text-indent: 0em;">Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/D">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/D">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/D">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/D">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/D">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/D">go</a></li>
+  </ul>
+  <h2>Формат ввода</h2>
+  Функция на вход принимает голову односвязного списка и элемент, который нужно найти. Длина списка не превосходит 10000 элементов. Список не бывает пустым.
+  <h2>Формат вывода</h2>
+  <div>Функция возвращает индекс первого вхождения искомого элемента в список(индексация начинается с нуля). Если элемент не найден, нужно вернуть -1.</div>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="E_All_opposite.py">E. Всё наоборот</a></h2></summary>
+  Вася решил запутать маму &mdash;&ndash; делать дела в обратном порядке. Список его дел теперь хранится в двусвязном списке. Напишите функцию, которая вернёт список в обратном порядке.
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову двусвязного списка и возвращает голову перевёрнутого списка. Ниже дано описание структуры, которая задаёт вершину списка.</p>
+  <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/E">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/E">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/E">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/E">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/E">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/E">go</a></li>
+  </ul>
+  <h2>Формат ввода</h2>
+  Функция принимает на вход единственный аргумент &mdash; голову двусвязного списка. 
+  <p>Длина списка не превосходит 1000 элементов. Список не бывает пустым.&nbsp;</p>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="F_Stack_max.py">F. Стек - Max</a></h2></summary>
 
 
-  <p>B. Список дел</p>
-  <p>C. Нелюбимое дело</p>
-  <p>D. Заботливая мама</p>
-  <p>E. Всё наоборот</p>
+</details>
+
   <p>F. Стек - Max</p>
   <p>G. Стек - MaxEffective</p>
   <p>H. Скобочная последовательность</p>
