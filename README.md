@@ -2,6 +2,7 @@
   <img src="http://www.arvifox.com/wp-content/uploads/2020/11/shpargalka-2048x1473.png">
 </p>
 
+<hr/><hr/>
 <p>&nbsp;</p>
 
 <strong><h1><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></h1></strong>
@@ -546,6 +547,7 @@ e
 </table>
 </details>
 
+<hr/><hr/>
 <p>&nbsp;</p>
 
 <strong><h1><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a></h1></strong>
@@ -1128,6 +1130,7 @@ pop_back
 </table>
 </details>
 
+<hr/><hr/>
 <p>&nbsp;</p>
 
 <strong><h1><a href="2-Recursions">Рекурсия</a></h1></strong>
@@ -1757,7 +1760,7 @@ rita
 </table>
 </details>
 
-
+<hr/><hr/>
 <p>&nbsp;</p>
 
 <strong><h1><a href="3-Hash_functions">Хэш функции</a></h1></strong>
