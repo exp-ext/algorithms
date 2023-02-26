@@ -1,5 +1,9 @@
 <h1>Алгоритмы и структуры данных</h1>
 
+<p align="center">
+  <img src="https://s1.studylibfr.com/store/data/010101482_1-951be9a48a6d04770a13eea4a76b59fc.png">
+</p>
+
 <details> <summary><h2><a href="A_Monitoring.py">A. Мониторинг</a></h2></summary>
   <span>
     <p>
