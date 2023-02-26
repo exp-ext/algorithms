@@ -2,66 +2,1964 @@
   <img src="http://www.arvifox.com/wp-content/uploads/2020/11/shpargalka-2048x1473.png">
 </p>
 
-<p><details> <summary> <strong><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></strong></summary>
-  <p>&nbsp;</p>
-  <p><a href="0-Introduction_to_algorithms/A_evaluate_function.py">A. Значения функции</a></p>
-  <p><a href="0-Introduction_to_algorithms/B_check_parity.py">B. Чётные и нечётные числа</a></p>
-  <p><a href="0-Introduction_to_algorithms/C_get_neighbours.py">C. Соседи</a></p>
-  <p><a href="0-Introduction_to_algorithms/D_get_weather_randomness.py">D. Хаотичность погоды</a></p>
-  <p><a href="0-Introduction_to_algorithms/E_get_longest_word.py">E. Самое длинное слово</a></p>
-  <p><a href="0-Introduction_to_algorithms/F_is_palindrome.py">F. Палиндром</a></p>
-  <p><a href="0-Introduction_to_algorithms/G_to_binary.py">G. Работа из дома</a></p>
-  <p><a href="0-Introduction_to_algorithms/H_get_sum.py">H. Двоичная система</a></p>
-  <p><a href="0-Introduction_to_algorithms/I_is_power_of_four.py">I. Степень четырёх</a></p>
-  <p><a href="0-Introduction_to_algorithms/J_factorize.py">J. Факторизация</a></p>
-  <p><a href="0-Introduction_to_algorithms/K_kget_sum.py">K. Списочная форма</a></p>
-  <p><a href="0-Introduction_to_algorithms/L_get_excessive_letter.py">L. Лишняя буква</a></p>
-  <p><a href="0-Introduction_to_algorithms/final_nearest_zero.py">A. Ближайший ноль</a></p>
-  <p><a href="0-Introduction_to_algorithms/final_sleight_of_hand.py">B. Ловкость рук</a></p>
-</details></p>
 <p>&nbsp;</p>
-<p><details> <summary> <strong><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a> </strong></summary>
-  <p>&nbsp;</p>
-  <p><a href="1-Algorithms_and_data_structures/A_Monitoring.py">A. Мониторинг</a></p>
-  <p><a href="1-Algorithms_and_data_structures/B_Todo_list.py">B. Список дел</a></p>
-  <p><a href="1-Algorithms_and_data_structures/C_Unloved_business.py">C. Нелюбимое дело</a></p>
-  <p><a href="1-Algorithms_and_data_structures/D_Caring_mother.py">D. Заботливая мама</a></p>
-  <p><a href="1-Algorithms_and_data_structures/E_All_opposite.py">E. Всё наоборот</a></p>
-  <p><a href="1-Algorithms_and_data_structures/F_Stack_max.py">F. Стек - Max</a></p>
-  <p><a href="1-Algorithms_and_data_structures/G_Stack_MaxEffective.py">G. Стек - MaxEffective</a></p>
-  <p><a href="1-Algorithms_and_data_structures/H_Bracket_sequence.py">H. Скобочная последовательность</a></p>
-  <p><a href="1-Algorithms_and_data_structures/I_Limited_queue.py">I. Ограниченная очередь</a></p>
-  <p><a href="1-Algorithms_and_data_structures/J_List_with_queue.py">J. Списочная очередь</a></p>
-  <p><a href="1-Algorithms_and_data_structures/K_Recursive_Fibonacci_numbers.py">K. Рекурсивные числа Фибоначчи</a></p>
-  <p><a href="1-Algorithms_and_data_structures/L_Fibonacci_modulo.py">L. Фибоначчи по модулю</a></p>
-  <p><a href="1-Algorithms_and_data_structures/final_A_Deck.py">A. Дек</a></p>
-  <p><a href="1-Algorithms_and_data_structures/final_B_Calculator.py">B. Калькулятор</a></p>
-</details></p>
+
+<strong><h1><a href="0-Introduction_to_algorithms">Введение в алгоритмы</a></h1></strong>
+
 <p>&nbsp;</p>
-<p><details> <summary> <strong><a href="2-Recursions">Рекурсия</a> </strong></summary>
-  <p>&nbsp;</p>
-  <p><a href="2-Recursions/A_bracket_generator.py">A. Генератор скобок</a></p>
-  <p><a href="2-Recursions/B_combinations.py">B. Комбинации</a></p>
-  <p><a href="2-Recursions/C_subsequence.py">C. Подпоследовательность</a></p>
-  <p><a href="2-Recursions/D_cookies.py">D. Печеньки</a></p>
-  <p><a href="2-Recursions/E_home_buying.py">E. Покупка домов</a></p>
-  <p><a href="2-Recursions/F_triangle_perimeter.py">F. Периметр треугольника</a></p>
-  <p><a href="2-Recursions/G_cloakroom.py">G. Гардероб</a></p>
-  <p><a href="2-Recursions/H_large_number.py">H. Большое число</a></p>
-  <p><a href="2-Recursions/I_conference lovers.py">I. Любители конференций</a></p>
-  <p><a href="2-Recursions/J_Bubble_sort lovers.py">J. Пузырёк</a></p>
-  <p><a href="2-Recursions/K_merge_sorting lovers.py">K. Сортировка слиянием</a></p>
-  <p><a href="2-Recursions/L_two_bicycles.py">L. Два велосипеда</a></p>
-  <p><a href="2-Recursions/N_flowerbeds.py">N. Клумбы</a></p>
-  <p><a href="2-Recursions/final_search_in_broken_array.py">A. Поиск в сломанном массиве</a></p>
-  <p><a href="2-Recursions/final_efficient_quick_sorting.py">B. Эффективная быстрая сортировка</a></p>
-</details></p>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/A_evaluate_function.py">A. Значения функции</a></h2></summary>
+<p>Вася делает тест по математике: вычисляет значение функций в различных точках. Стоит отличная погода, и друзья зовут Васю гулять. Но мальчик решил сначала закончить тест и только после этого идти к друзьям. К сожалению, Вася пока не умеет программировать. Зато вы умеете. Помогите Васе написать код функции, вычисляющей y = ax<sup>2</sup> + bx + c. Напишите программу, которая будет по коэффициентам a, b, c и числу x выводить значение функции в точке x.</p>
+<h2>Формат ввода</h2>
+<div>
+<p>На вход через пробел подаются целые числа a, x, b, c. В конце ввода находится перенос строки.</p>
+</div>
+<h2>Формат вывода</h2>
+<div>
+<p>Выведите одно число &mdash; значение функции в точке x.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+-8 -5 -2 7
+</pre>
+</td>
+<td>
+<pre>
+-183</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/B_check_parity.py">B. Чётные и нечётные числа</a></h2></summary>
+<p>Представьте себе онлайн-игру для поездки в метро: игрок нажимает на кнопку, и на экране появляются три случайных числа. Если все три числа оказываются одной чётности, игрок выигрывает.</p>
+<p>Напишите программу, которая по трём числам определяет, выиграл игрок или нет.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записаны три случайных целых числа a, b и c. Числа не превосходят 10<sup>9</sup> по модулю.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите &laquo;WIN&raquo;, если игрок выиграл, и &laquo;FAIL&raquo; в противном случае.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+1 2 -3
+</pre>
+</td>
+<td>
+<pre>
+FAIL
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/C_get_neighbours.py">C. Соседи</a></h2></summary>
+<p>Дана матрица. Нужно написать функцию, которая для элемента возвращает всех его соседей. Соседним считается элемент, находящийся от текущего на одну ячейку влево, вправо, вверх или вниз. Диагональные элементы соседними не считаются.</p>
+<p>Например, в матрице A соседними элементами для (0, 0) будут 2 и 0. А для (2, 1) &ndash;&mdash; 1, 2, 7, 7.</p>
+<p><img src="https://contest.yandex.ru/testsys/statement-image?imageId=1f83925f47077acfa8d1519afc9bb304ae19a6d23ce714b94255d3e799a91ee0" /></p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке задано n &mdash; количество строк матрицы. Во второй &mdash; количество столбцов m. Числа m и n не превосходят 1000. В следующих n строках задана матрица. Элементы матрицы &mdash; целые числа, по модулю не превосходящие 1000. В последних двух строках записаны координаты элемента, соседей которого нужно найти. Индексация начинается с нуля.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Напечатайте нужные числа в возрастающем порядке через пробел.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+4
+3
+1 2 3
+0 2 6
+7 4 1
+2 7 0
+3
+0
+</pre>
+</td>
+<td>
+<pre>
+7 7
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/D_get_weather_randomness.py">D. Хаотичность погоды</a></h2></summary>
+<p>Метеорологическая служба вашего города решила исследовать погоду новым способом.</p>
+<ul>
+<li>Под температурой воздуха в конкретный день будем понимать максимальную температуру в этот день.</li>
+<li>Под хаотичностью погоды за n дней служба понимает количество дней, в которые температура строго больше, чем в день до (если такой существует) и в день после текущего (если такой существует). Например, если за 5 дней максимальная температура воздуха составляла [1, 2, 5, 4, 8] градусов, то хаотичность за этот период равна 2: в 3-й и 5-й дни выполнялись описанные условия.</li>
+</ul>
+<p>Определите по ежедневным показаниям температуры хаотичность погоды за этот период.</p>
+<p>Заметим, что если число показаний n=1, то единственный день будет хаотичным.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано число n &ndash;&mdash; длина периода измерений в днях, 1 &le; n&le; 10<sup>5</sup>. Во второй строке даны n целых чисел &ndash;&mdash; значения температуры в каждый из n дней. Значения температуры не превосходят 273 по модулю.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите единственное число &mdash; хаотичность за данный период.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+7
+-1 -10 -8 0 2 0 5
+</pre>
+</td>
+<td>
+<pre>
+3
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/E_get_longest_word.py">E. Самое длинное слово</a></h2></summary>
+<p>Чтобы подготовиться к семинару, Гоше надо прочитать статью по эффективному менеджменту. Так как Гоша хочет спланировать день заранее, ему необходимо оценить сложность статьи.</p>
+<p>Он придумал такой метод оценки: берётся случайное предложение из текста и в нём ищется самое длинное слово. Его длина и будет условной сложностью статьи.</p>
+<p>Помогите Гоше справиться с этой задачей.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дана длина текста L (1 &le; L &le; 10<sup>5</sup>).</p>
+<p>В следующей строке записан текст, состоящий из строчных латинских букв и пробелов. Слово &mdash;&ndash; последовательность букв, не разделённых пробелами. Пробелы могут стоять в самом начале строки и в самом её конце. Текст заканчивается переносом строки, этот символ не включается в число остальных L символов.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>В первой строке выведите самое длинное слово. Во второй строке выведите его длину. Если подходящих слов несколько, выведите то, которое встречается раньше.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+19
+i love segment tree
+</pre>
+</td>
+<td>
+<pre>
+segment
+7
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/F_is_palindrome.py">F. Палиндром</a></h2></summary>
+<p>Помогите Васе понять, будет ли фраза палиндромом&lrm;. Учитываются только буквы и цифры, заглавные и строчные буквы считаются одинаковыми.</p>
+<p>Решение должно работать за O(N), где N &mdash; длина строки на входе.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В единственной строке записана фраза или слово. Буквы могут быть только латинские. Длина текста не превосходит 20000 символов.</p>
+<p>Фраза может состоять из строчных и прописных латинских букв, цифр, знаков препинания.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите &laquo;True&raquo;, если фраза является палиндромом, и &laquo;False&raquo;, если не является.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+A man, a plan, a canal: Panama
+</pre>
+</td>
+<td>
+<pre>
+True
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/G_to_binary.py">G. Работа из дома</a></h2></summary>
+<p>Вася реализовал функцию, которая переводит целое число из десятичной системы в двоичную. Но, кажется, она получилась не очень оптимальной.</p>
+<p>Попробуйте написать более эффективную программу.</p>
+<p>Не используйте встроенные средства языка по переводу чисел в бинарное представление.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>На вход подаётся целое число в диапазоне от 0 до 10000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите двоичное представление этого числа.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+5
+</pre>
+</td>
+<td>
+<pre>
+101
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/H_get_sum.py">H. Двоичная система</a></h2></summary>
+<p>Тимофей записал два числа в двоичной системе счисления и попросил Гошу вывести их сумму, также в двоичной системе. Встроенную в язык программирования возможность сложения двоичных чисел применять нельзя. Помогите Гоше решить задачу.</p>
+<p>Решение должно работать за O(N), где N &ndash;&mdash; количество разрядов максимального числа на входе.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>Два числа в двоичной системе счисления, каждое на отдельной строке. Длина каждого числа не превосходит 10 000 символов.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Одно число в двоичной системе счисления.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+1010
+1011
+</pre>
+</td>
+<td>
+<pre>
+10101</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/I_is_power_of_four.py">I. Степень четырёх</a></h2></summary>
+<p>Напишите программу, которая определяет, будет ли положительное целое число степенью четвёрки.</p>
+<p>Подсказка: степенью четвёрки будут все числа вида 4<sup>n</sup>, где n &ndash; целое неотрицательное число.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>На вход подаётся целое число в диапазоне от 1 до 10000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите &laquo;True&raquo;, если число является степенью четырёх, &laquo;False&raquo; &ndash;&mdash; в обратном случае.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+15
+</pre>
+</td>
+<td>
+<pre>
+False
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/J_factorize.py">J. Факторизация</a></h2></summary>
+<p>Основная теорема арифметики говорит: любое число раскладывается на произведение простых множителей единственным образом, с точностью до их перестановки. Например:</p>
+<ul>
+<li>Число 8 можно представить как 2 &times; 2 &times; 2.</li>
+<li>Число 50 &ndash;&mdash; как 2 &times; 5 &times; 5 (или 5 &times; 5 &times; 2, или 5 &times; 2 &times; 5). Три варианта отличаются лишь порядком следования множителей.</li>
+</ul>
+<p>Разложение числа на простые множители называется факторизацией числа.</p>
+<p>Напишите программу, которая производит факторизацию переданного числа.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В единственной строке дано число n (2 &le; n &le; 10<sup>9</sup>), которое нужно факторизовать.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите в порядке неубывания простые множители, на которые раскладывается число n.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+8
+</pre>
+</td>
+<td>
+<pre>
+2 2 2
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/K_kget_sum.py">K. Списочная форма</a></h2></summary>
+<p>Вася просил Аллу помочь решить задачу. На этот раз по информатике.</p>
+<p>Для неотрицательного целого числа X списочная форма &ndash;&mdash; это массив его цифр слева направо. К примеру, для 1231 списочная форма будет [1,2,3,1]. На вход подается количество цифр числа Х, списочная форма неотрицательного числа Х и неотрицательное число K. Число К не превосходят 10000. Длина числа Х не превосходит 1000.</p>
+<p>Нужно вернуть списочную форму числа X + K.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке &mdash; длина списочной формы числа X. На следующей строке &mdash; сама списочная форма с цифрами записанными через пробел.</p>
+<p>В последней строке записано число K, 0 &le; K &le; 10000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите списочную форму числа X+K.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+4
+1 2 0 0
+34
+</pre>
+</td>
+<td>
+<pre>
+1 2 3 4
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/L_get_excessive_letter.py">L. Лишняя буква</a></h2></summary>
+<p>Васе очень нравятся задачи про строки, поэтому он придумал свою. Есть 2 строки s и t, состоящие только из строчных букв. Строка t получена перемешиванием букв строки s и добавлением 1 буквы в случайную позицию. Нужно найти добавленную букву.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>На вход подаются строки s и t, разделённые переносом строки. Длины строк не превосходят 1000 символов. Строки не бывают пустыми.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите лишнюю букву.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+abcd
+abcde
+</pre>
+</td>
+<td>
+<pre>
+e
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/final_nearest_zero.py">A. Ближайший ноль</a></h2></summary>
+<p>Тимофей ищет место, чтобы построить себе дом. Улица, на которой он хочет жить, имеет длину n, то есть состоит из n одинаковых идущих подряд участков. Каждый участок либо пустой, либо на нём уже построен дом.</p>
+<p>Общительный Тимофей не хочет жить далеко от других людей на этой улице. Поэтому ему важно для каждого участка знать расстояние до ближайшего пустого участка. Если участок пустой, эта величина будет равна нулю &mdash; расстояние до самого себя.</p>
+<p>Помогите Тимофею посчитать искомые расстояния. Для этого у вас есть карта улицы. Дома в городе Тимофея нумеровались в том порядке, в котором строились, поэтому их номера на карте никак не упорядочены. Пустые участки обозначены нулями.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дана длина улицы &mdash;&ndash; n (1 &le; n &le; 10<sup>6</sup>). В следующей строке записаны n целых неотрицательных чисел &mdash; номера домов и обозначения пустых участков на карте (нули). Гарантируется, что в последовательности есть хотя бы один ноль. Номера домов (положительные числа) уникальны и не превосходят 10<sup>9</sup>.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Для каждого из участков выведите расстояние до ближайшего нуля. Числа выводите в одну строку, разделяя их пробелами.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>5
+0 1 4 9 0
+</pre>
+</td>
+<td>
+<pre>0 1 2 1 0
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="0-Introduction_to_algorithms/final_sleight_of_hand.py">B. Ловкость рук</a></h2></summary>
+<p>Игра &laquo;Тренажёр для скоростной печати&raquo; представляет собой поле из клавиш 4x4. В нём на каждом раунде появляется конфигурация цифр и точек. На клавише написана либо точка, либо цифра от 1 до 9.</p>
+<p>В момент времени t игрок должен одновременно нажать на все клавиши, на которых написана цифра t. Гоша и Тимофей могут нажать в один момент времени на k клавиш каждый. Если в момент времени t нажаты все нужные клавиши, то игроки получают 1 балл.</p>
+<p>Найдите число баллов, которое смогут заработать Гоша и Тимофей, если будут нажимать на клавиши вдвоём.</p>
+<p><img src="https://contest.yandex.ru/testsys/statement-image?imageId=cb3cdeef693f05abf245a66df9e312d48c7c2501e5307354ef9722bb8b9a2e5f" /></p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано целое число k (1 &le; k &le; 5).</p>
+<p>В четырёх следующих строках задан вид тренажёра -&mdash; по 4 символа в каждой строке. Каждый символ &ndash; либо точка, либо цифра от 1 до 9. Символы одной строки идут подряд и не разделены пробелами.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите единственное число -&mdash; максимальное количество баллов, которое смогут набрать Гоша и Тимофей.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3
+1231
+2..2
+2..2
+2..2
+</pre>
+</td>
+<td>
+<pre>
+2
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
 <p>&nbsp;</p>
-<p><details> <summary> <strong><a href="3-Hash_functions">Хэш функции</a> </strong></summary>
+
+<strong><h1><a href="1-Algorithms_and_data_structures">Алгоритмы и структуры данных</a></h1></strong>
+  
+<p>&nbsp;</p>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/A_Monitoring.py">A. Мониторинг</a></h2></summary>
+  <span>
+    <p>
+      Алла получила задание, связанное с мониторингом работы различных серверов. Требуется понять, сколько времени обрабатываются
+      определённые запросы на конкретных серверах. Эту информацию нужно хранить в матрице, где номер столбца соответствуют идентификатору
+      запроса, а номер строки — идентификатору сервера. Алла перепутала строки и столбцы местами. С каждым бывает. Помогите ей исправить
+      баг.
+    </p>
+  </span>
+  <p>
+  Есть ма трица размера <span class="tex-math-text">m × n</span>. Нужно написать функцию, которая её транспонирует.
+  </p>
+  <p>Транспонированная матрица получается из исходной заменой строк на столбцы.</p>
+  <p>Например, для матрицы <span class="tex-math-text">А</span> (слева) транспонированной будет следующая матрица (справа):</p>
+  <p><img class="user-image" src="https://contest.yandex.ru/testsys/statement-image?imageId=69ff475b66bdbc91024d48b48ee588d5a58645a20b1433663a9e7981bef14e3d"></p>
+  <h3>Формат ввода</h3>
+  <span>
+    <p>
+      В первой строке задано число <span>n</span> — количество строк матрицы.<br>Во второй строке задано <span>m</span> — число столбцов, <span>m</span> и <span>n</span> не превосходят <span class="tex-math-text">1000</span>. В следующих <span class="tex-math-text">n</span> строках задана матрица. Числа в ней не превосходят по модулю <span>1000</span>.
+    </p>
+  </span>
+  <h3>Формат вывода</h3>
+  <span>
+    <p>
+      Напечатайте транспонированную матрицу в том же формате, который задан во входных данных. Каждая строка матрицы выводится на
+      отдельной строке, элементы разделяются пробелами.
+    </p>
+  </span>   
+  <h3>Пример</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Ввод</th>
+        <th>Вывод</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><pre>
+4
+3
+1 2 3
+0 2 6
+7 4 1
+2 7 0
+        </pre></td>
+        <td><pre>
+1 0 7 2
+2 2 4 7
+3 6 1 0
+        </pre></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/B_Todo_ list.py">B. Список дел</a></h2></summary>
+  <p>Васе нужно распечатать свой список дел на сегодня. Помогите ему: напишите функцию, которая печатает все его дела. Известно, что дел у Васи не больше 5000.</p>
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и печатает его элементы. Ниже дано описание структуры, которая задаёт узел списка. <!--l. 51--></p>
+  <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/B">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/B">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/B">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/B">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/B">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/B">go</a></li>
+  </ul>
+  <p><span style="font-weight: bold;">Решение надо отправлять только в виде файла с расширением,</span> <span style="font-weight: bold;">которое соответствует вашему языку. Иначе даже корректно</span> <span style="font-weight: bold;">написанное решение не пройдет тесты.</span></p>
+  <h3>Формат ввода</h3>
+  <div>
+    В качестве ответа сдайте только код функции, которая печатает элементы списка. Длина списка не превосходит 5000 элементов. Список не бывает пустым.
+  </div>
+  <h3>Формат вывода</h3>
+  <p>Функция должна напечатать элементы списка по одному в строке.</p>
   <p>&nbsp;</p>
-  <p><a href="3-Hash_functions/a_Polynomial_hash.py">A. Полиномиальный хеш</a></p>
-  <p><a href="3-Hash_functions/b_crash_polynomial_hash.py">B. Сломай меня</a></p>
-  <p><a href="3-Hash_functions/c_prefix_hash.py">C. Префиксные хеши</a></p>
-  <p><a href="3-Hash_functions/d_sections.py">D. Кружки</a></p>
-  <p><a href="3-Hash_functions/e_substrings.py">E. Подстроки</a></p>
-</details></p>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/C_Unloved_business.py">C. Нелюбимое дело</a></h2></summary>
+  <div>
+    Вася размышляет, что ему можно не делать из того списка дел, который он составил. Но, кажется, все пункты очень важные! Вася решает загадать число и удалить дело, которое идёт под этим номером. Список дел представлен в виде односвязного списка. Напишите функцию solution, которая принимает на вход голову списка и номер удаляемого дела и возвращает голову обновлённого списка.
+    <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и номер удаляемого элемента и возвращает голову обновлённого списка.</p>
+    <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+    <ul>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/C">c++</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/C">Java</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/C">js</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/C">Python</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/C">C#</a></li>
+      <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/C">go</a></li>
+    </ul>
+    <p><span style="font-weight: bold;">Решение надо отправлять только в виде файла с расширением,</span> <span style="font-weight: bold;">которое соответствует вашему языку. Иначе даже корректно</span> <span style="font-weight: bold;">написанное решение не пройдет тесты. </span></p>
+    <p>&nbsp;</p>
+  </div>
+  <h3>Формат ввода</h3>
+  <div>
+    Функция принимает голову списка и индекс элемента, который надо удалить (нумерация с нуля). Список содержит не более 5000 элементов. Список не бывает пустым.&nbsp;
+  </div>
+  <h3>Формат вывода</h3>
+  <p>Верните голову списка, в котором удален нужный элемент.</p>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/D_Caring_mother.py">D. Заботливая мама</a></h2></summary>
+  Мама Васи хочет знать, что сын планирует делать и когда. Помогите ей: напишите функцию solution, определяющую индекс первого вхождения передаваемого ей на вход значения в связном списке, если значение присутствует.
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову списка и искомый элемент, а возвращает целое число &mdash; индекс найденного элемента или -1.</p>
+  <p style="text-indent: 0em;">Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/D">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/D">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/D">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/D">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/D">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/D">go</a></li>
+  </ul>
+  <h2>Формат ввода</h2>
+  Функция на вход принимает голову односвязного списка и элемент, который нужно найти. Длина списка не превосходит 10000 элементов. Список не бывает пустым.
+  <h2>Формат вывода</h2>
+  <div>Функция возвращает индекс первого вхождения искомого элемента в список(индексация начинается с нуля). Если элемент не найден, нужно вернуть -1.</div>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/E_All_opposite.py">E. Всё наоборот</a></h2></summary>
+  Вася решил запутать маму &mdash;&ndash; делать дела в обратном порядке. Список его дел теперь хранится в двусвязном списке. Напишите функцию, которая вернёт список в обратном порядке.
+  <p><span style="font-weight: bold;">Внимание: </span>в этой задаче не нужно считывать входные данные. Нужно написать только функцию, которая принимает на вход голову двусвязного списка и возвращает голову перевёрнутого списка. Ниже дано описание структуры, которая задаёт вершину списка.</p>
+  <p>Используйте заготовки кода для данной задачи, расположенные по ссылкам:</p>
+  <ul>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/cpp/sprint2/E">c++</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/java/sprint2/E">Java</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/js/sprint2/E">js</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/python/sprint2/E">Python</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/csharp/sprint2/E">C#</a></li>
+    <li><a href="https://github.com/Yandex-Practicum/algorithms-templates/tree/main/go/sprint2/E">go</a></li>
+  </ul>
+  <h3>Формат ввода</h3>
+  Функция принимает на вход единственный аргумент &mdash; голову двусвязного списка. 
+  <p>Длина списка не превосходит 1000 элементов. Список не бывает пустым.&nbsp;</p>
+  <p>&nbsp;</p>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/F_Stack_max.py">F. Стек - Max</a></h2></summary>
+  <p>Нужно реализовать класс StackMax, который поддерживает операцию определения максимума среди всех элементов в стеке. Класс должен поддерживать операции push(x), где x &ndash; целое число, pop() и get_max().</p>
+  <p>В первой строке записано одно число n &mdash; количество команд, которое не превосходит 10000. В следующих n строках идут команды. Команды могут быть следующих видов:</p>
+  <ul>
+    <li>push(x) &mdash; добавить число x в стек;
+    </li>
+    <li>pop() &mdash; удалить число с вершины стека;
+    </li>
+    <li>get_max() &mdash; напечатать максимальное число в стеке;</li>
+  </ul>
+  <p>Если стек пуст, при вызове команды get_max() нужно напечатать &laquo;None&raquo;, для команды pop() &mdash; &laquo;error&raquo;.</p>
+  <h3>Формат вывода</h3>
+  <p>Для каждой команды get_max() напечатайте результат её выполнения. Если стек пустой, для команды get_max() напечатайте &laquo;None&raquo;. Если происходит удаление из пустого стека &mdash; напечатайте &laquo;error&raquo;.</p>
+<h3>Пример 1</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>
+Ввод
+        </th>
+        <th>
+Вывод
+        </th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <pre>
+8
+get_max
+push 7
+pop
+push -2
+push -1
+pop
+get_max
+get_max
+          </pre>
+        </td>
+        <td>
+          <pre>
+None
+-2
+-2
+          </pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/G_Stack_MaxEffective.py">G. Стек - MaxEffective</a></h2></summary>
+  <p>Реализуйте класс StackMaxEffective, поддерживающий операцию определения максимума среди элементов в стеке. Сложность операции должна быть O(1). Для пустого стека операция должна возвращать None. При этом push(x) и pop() также должны выполняться за константное время.</p>
+  <h3>Формат ввода</h3>
+  <p>В первой строке записано одно число &mdash; количество команд, оно не превосходит 100000. Далее идут команды по одной в строке. Команды могут быть следующих видов:</p>
+  <ul>
+    <li>push(x) &mdash; добавить число x в стек;</li>
+    <li>pop() &mdash; удалить число с вершины стека;</li>
+    <li>get_max() &mdash; напечатать максимальное число в стеке;</li>  </ul>
+  Если стек пуст, при вызове команды get_max нужно напечатать &laquo;None&raquo;, для команды pop &mdash; &laquo;error&raquo;.
+  <h3>Формат вывода</h3>
+  <p>Для каждой команды get_max() напечатайте результат её выполнения. Если стек пустой, для команды get_max() напечатайте &laquo;None&raquo;. Если происходит удаление из пустого стека &mdash; напечатайте &laquo;error&raquo;.</p>
+  <h3>Пример</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>
+Ввод
+        </th>
+        <th>
+Вывод
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <pre>
+10
+pop
+pop
+push 4
+push -5
+push 7
+pop
+pop
+get_max
+pop
+get_max
+          </pre>
+        </td>
+        <td>
+          <pre>
+error
+error
+4
+None
+          </pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/H_Bracket_sequence.py">H. Скобочная последовательность</a></h2></summary>
+  <p>Вот какую задачу Тимофей предложил на собеседовании одному из кандидатов. Если вы с ней ещё не сталкивались, то наверняка столкнётесь &ndash;&mdash; она довольно популярная.</p>
+  <p>Дана скобочная последовательность. Нужно определить, правильная ли она.</p>
+  <p>Будем придерживаться такого определения:</p>
+  <ul>
+    <li>пустая строка&nbsp;&mdash;&ndash; правильная скобочная последовательность;</li>
+    <li>правильная скобочная последовательность, взятая в скобки одного типа,&nbsp;&ndash;&mdash; правильная скобочная последовательность;</li>
+    <li>правильная скобочная последовательность с приписанной слева или справа правильной скобочной последовательностью&nbsp;&mdash;&ndash; тоже правильная.</li>
+  </ul>
+  На вход подаётся последовательность из скобок трёх видов: [], (), {}.
+  <p>Напишите функцию is_correct_bracket_seq, которая принимает на вход скобочную последовательность и возвращает True, если последовательность правильная, а иначе False.</p>
+  <h3>Формат ввода</h3>
+  <p>На вход подаётся одна строка, содержащая скобочную последовательность. Скобки записаны подряд, без пробелов.</p>
+  <h3>Формат вывода</h3>
+  <p>Выведите &laquo;True&raquo; или &laquo;False&raquo;.</p>
+  <h3>Пример 1</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>
+Ввод
+        </th>
+        <th>
+Вывод
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <pre>
+{[()]}
+          </pre>
+        </td>
+        <td>
+          <pre>
+True
+          </pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/I_Limited_queue.py">I. Ограниченная очередь</a></h2></summary>
+  <p>Астрологи объявили день очередей ограниченного размера. Тимофею нужно написать класс&nbsp;MyQueueSized, который принимает параметр&nbsp;max_size, означающий максимально допустимое количество элементов в очереди.</p>
+  <p>Помогите ему &mdash;&ndash; реализуйте программу, которая будет эмулировать работу такой очереди. Функции, которые надо поддержать, описаны в формате ввода.</p>
+  <h3>Формат ввода</h3>
+  <p>В первой строке записано одно число &mdash; количество команд, оно не превосходит 5000.<br />Во второй строке задан максимально допустимый размер очереди, он не превосходит 5000.<br />Далее идут команды по одной на строке. Команды могут быть следующих видов:</p>
+  <ul>
+    <li>push(x) &mdash; добавить число x в очередь;</li>
+    <li>pop() &mdash; удалить число из очереди и вывести на печать;</li>
+    <li>peek() &mdash; напечатать первое число в очереди;</li>
+    <li>size() &mdash; вернуть размер очереди;</li>
+  </ul>
+  <p>При превышении допустимого размера очереди нужно вывести &laquo;error&raquo;. При вызове операций pop() или peek() для пустой очереди нужно вывести &laquo;None&raquo;.</p>
+  <h3>Формат вывода</h3>
+  <p>Напечатайте результаты выполнения нужных команд, по одному на строке.</p>
+  <h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+8
+2
+peek
+push 5
+push 2
+peek
+size
+size
+push 1
+size
+</pre>
+</td>
+<td>
+<pre>
+None
+5
+2
+2
+error
+2
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/J_List_with_queue">J. Списочная очередь</a></h2></summary>
+  <p>Любимый вариант очереди Тимофея &mdash; очередь, написанная с использованием связного списка. Помогите ему с реализацией. Очередь должна поддерживать выполнение трёх команд:</p>
+  <ul>
+    <li>get() &mdash; вывести элемент, находящийся в голове очереди, и удалить его. Если очередь пуста, то вывести &laquo;error&raquo;.</li>
+    <li>put(x) &mdash; добавить число x в очередь</li>
+    <li>size() &mdash; вывести текущий размер очереди</li>
+  </ul>
+  <h3>Формат ввода</h3>
+  <p>В первой строке записано количество команд n &mdash; целое число, не превосходящее 1000. В каждой из следующих n строк записаны команды по одной строке.</p>
+  <h3>Формат вывода</h3>
+  <p>Выведите ответ на каждый запрос по одному в строке.</p>
+  <h3>Пример 1</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+10
+put -34
+put -23
+get
+size
+get
+size
+get
+get
+put 80
+size
+</pre>
+</td>
+<td>
+<pre>
+-34
+1
+-23
+0
+error
+error
+1
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/K_Recursive_Fibonacci_numbers">K. Рекурсивные числа Фибоначчи</a></h2></summary>
+  <p>У Тимофея было n (0&le;n&le;32) стажёров. Каждый стажёр хотел быть лучше своих предшественников, поэтому i-й стажёр делал столько коммитов, сколько делали два предыдущих стажёра в сумме. Два первых стажёра были менее инициативными &mdash;&ndash; они сделали по одному коммиту. Пусть Fi &mdash;&ndash; число коммитов, сделанных i-м стажёром (стажёры нумеруются с нуля). Тогда выполняется следующее: F0=F1=1. Для всех i&ge;2; выполнено Fi=Fi&minus;1+Fi&minus;2.</p>
+  <p>Определите, сколько кода напишет следующий стажёр &ndash;&mdash; найдите Fn. </p>
+  <p>Решение должно быть реализовано рекурсивно.</p>
+  <h3>Формат ввода</h3>
+  <p>На вход подаётся n &mdash; целое число в диапазоне от 0 до 32</p>
+  <h3>Формат вывода</h3>
+  <p>Нужно вывести Fn.</p>
+  <h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3</pre>
+</td>
+<td>
+<pre>
+3
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/L_Fibonacci_modulo">L. Фибоначчи по модулю</a></h2></summary>
+<p>У Тимофея было очень много стажёров, целых N (0 &le; N &le; 10<sup>6</sup>) человек. Каждый стажёр хотел быть лучше своих предшественников, поэтому i-й стажёр делал столько коммитов, сколько делали два предыдущих стажёра в сумме. Два первых стажёра были менее инициативными &mdash; они сделали по одному коммиту.</p>
+<p>Пусть F<sub>i</sub> &mdash;&ndash; число коммитов, сделанных i-м стажёром (стажёры нумеруются с нуля). Первые два стажёра сделали по одному коммиту: F<sub>0</sub>=F<sub>1</sub>=1. Для всех&nbsp;i&ge; 2&nbsp;выполнено&nbsp;F<sub>i</sub>=F<sub>i&minus;1</sub>+F<sub>i&minus;2</sub>.</p>
+<p>Определите, сколько кода напишет следующий стажёр &ndash;&mdash; найдите последние k цифр числа F<sub>n</sub>.</p>
+<p><br />Как найти k последних цифр</p>
+<p>Чтобы вычислить k последних цифр некоторого числа x, достаточно взять остаток от его деления на число 10<sup>k</sup>. Эта операция обозначается как x mod 10<sup>k</sup>. Узнайте, как записывается операция взятия остатка по модулю в вашем языке программирования.</p>
+<p>Также обратите внимание на возможное переполнение целочисленных типов, если в вашем языке такое случается.</p>
+<h2>Формат ввода</h2>
+<div>
+<p>В первой строке записаны через пробел два целых числа n (0 &le; n &le; 10<sup>6</sup>) и k (1 &le; k &le; 8).</p>
+</div>
+<h2>Формат вывода</h2>
+<div>
+<p>Выведите единственное число &ndash; последние k цифр числа F<sub>n</sub>.</p>
+<p>Если в искомом числе меньше k цифр, то выведите само число без ведущих нулей.</p>
+</div>
+<h3>Пример 1</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3 1
+</pre>
+</td>
+<td>
+<pre>
+3
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/final_A_Deck">A. Дек</a></h2></summary>
+<p>Гоша реализовал структуру данных Дек, максимальный размер которого определяется заданным числом. Методы push_back(x), push_front(x), pop_back(), pop_front() работали корректно. Но, если в деке было много элементов, программа работала очень долго. Дело в том, что не все операции выполнялись за O(1). Помогите Гоше! Напишите эффективную реализацию.</p>
+<p>Внимание: при реализации используйте кольцевой буфер.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записано количество команд n &mdash; целое число, не превосходящее 100000. Во второй строке записано число m &mdash; максимальный размер дека. Он не превосходит 50000. В следующих n строках записана одна из команд:</p>
+<ul>
+<li>push_back(value) &ndash; добавить элемент в конец дека. Если в деке уже находится максимальное число элементов, вывести &laquo;error&raquo;.</li>
+<li>push_front(value) &ndash; добавить элемент в начало дека. Если в деке уже находится максимальное число элементов, вывести &laquo;error&raquo;.</li>
+<li>pop_front() &ndash; вывести первый элемент дека и удалить его. Если дек был пуст, то вывести &laquo;error&raquo;.</li>
+<li>pop_back() &ndash; вывести последний элемент дека и удалить его. Если дек был пуст, то вывести &laquo;error&raquo;.</li>
+</ul>
+Value &mdash; целое число, по модулю не превосходящее 1000.
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите результат выполнения каждой команды на отдельной строке. Для успешных запросов push_back(x) и push_front(x) ничего выводить не надо.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+4
+4
+push_front 861
+push_front -819
+pop_back
+pop_back
+</pre>
+</td>
+<td>
+<pre>
+861
+-819
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="1-Algorithms_and_data_structures/final_B_Calculator">B. Калькулятор</a></h2></summary>
+<p>Задание связано с обратной польской нотацией. Она используется для парсинга арифметических выражений. Еще её иногда называют постфиксной нотацией.</p>
+<p>В постфиксной нотации операнды расположены перед знаками операций.</p>
+<p>Пример 1: <br />3 4 +<br />означает 3 + 4 и равно 7 <br /><br />Пример 2: <br />12 5 /<br />Так как деление целочисленное, то в результате получим 2.</p>
+<p>Пример 3: <br />10 2 4 * -<br />означает 10 - 2 * 4 и равно 2</p>
+<p>Разберём последний пример подробнее:</p>
+<p>Знак * стоит сразу после чисел 2 и 4, значит к ним нужно применить операцию, которую этот знак обозначает, то есть перемножить эти два числа. В результате получим 8.</p>
+<p>После этого выражение приобретёт вид:</p>
+<p>10 8 -</p>
+<p>Операцию &laquo;минус&raquo; нужно применить к двум идущим перед ней числам, то есть 10 и 8. В итоге получаем 2.</p>
+<p>Рассмотрим алгоритм более подробно. Для его реализации будем использовать стек.</p>
+<p>Для вычисления значения выражения, записанного в обратной польской нотации, нужно считывать выражение слева направо и придерживаться следующих шагов:</p>
+<ol>
+<li>Обработка входного символа:
+<ul>
+<li>Если на вход подан операнд, он помещается на вершину стека.</li>
+<li>Если на вход подан знак операции, то эта операция выполняется над требуемым количеством значений, взятых из стека в порядке добавления. Результат выполненной операции помещается на вершину стека.</li>
+</ul>
+</li>
+<li>Если входной набор символов обработан не полностью, перейти к шагу 1.</li>
+<li>После полной обработки входного набора символов результат вычисления выражения находится в вершине стека. Если в стеке осталось несколько чисел, то надо вывести только верхний элемент.</li>
+</ol>
+<p>Замечание про отрицательные числа и деление: в этой задаче под делением понимается математическое целочисленное деление. Это значит, что округление всегда происходит вниз. А именно: если a / b = c, то b &sdot; c &mdash; это наибольшее число, которое не превосходит a и одновременно делится без остатка на b.</p>
+<p>Например, -1 / 3 = -1. Будьте осторожны: в C++, Java и Go, например, деление чисел работает иначе.</p>
+<p>В текущей задаче гарантируется, что деления на отрицательное число нет.</p>
+<h2>Формат ввода</h2>
+<div>
+<p>В единственной строке дано выражение, записанное в обратной польской нотации. Числа и арифметические операции записаны через пробел.</p>
+<p>На вход могут подаваться операции: +, -, *, / и числа, по модулю не превосходящие 10000.</p>
+<p>Гарантируется, что значение промежуточных выражений в тестовых данных по модулю не больше 50000.</p>
+</div>
+<h2>Формат вывода</h2>
+<div>
+<p>Выведите единственное число &mdash; значение выражения.</p>
+</div>
+<h3>Пример 1</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+2 1 + 3 *
+</pre>
+</td>
+<td>
+<pre>
+9
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<p>&nbsp;</p>
+
+<strong><h1><a href="2-Recursions">Рекурсия</a></h1></strong>
+
+<p>&nbsp;</p>
+
+<details> <summary><h2><a href="2-Recursions/A_bracket_generator.py">A. Генератор скобок</a></h2></summary>
+<p>Рита по поручению Тимофея наводит порядок в правильных скобочных последовательностях (ПСП), состоящих только из круглых скобок (). Для этого ей надо сгенерировать все ПСП длины 2n в алфавитном порядке &mdash;&ndash; алфавит состоит из ( и ) и открывающая скобка идёт раньше закрывающей.</p>
+<p>Помогите Рите &mdash;&ndash; напишите программу, которая по заданному n выведет все ПСП в нужном порядке.</p>
+<p>Рассмотрим второй пример. Надо вывести ПСП из четырёх символов. Таких всего две:</p>
+<ol>
+<li>(())</li>
+<li>()()</li>
+</ol>
+<p>(()) идёт раньше ()(), так как первый символ у них одинаковый, а на второй позиции у первой ПСП стоит (, который идёт раньше ).</p>
+<h3>Формат ввода</h3>
+<div>
+<p>На вход функция принимает n &mdash; целое число от 0 до 10.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Функция должна напечатать все возможные скобочные последовательности заданной длины в алфавитном (лексикографическом) порядке.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3
+</pre>
+</td>
+<td>
+<pre>
+((()))
+(()())
+(())()
+()(())
+()()()
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/B_combinations.py">B. Комбинации</a></h2></summary>
+<p>На клавиатуре старых мобильных телефонов каждой цифре соответствовало несколько букв. Примерно так:</p>
+<p>2:'abc',<br />3:'def',<br />4:'ghi',<br />5:'jkl',<br />6:'mno',<br />7:'pqrs',<br />8:'tuv',<br />9:'wxyz'</p>
+<p>Вам известно в каком порядке были нажаты кнопки телефона, без учета повторов. Напечатайте все комбинации букв, которые можно набрать такой последовательностью нажатий. <img src="https://contest.yandex.ru/testsys/statement-image?imageId=c9a2bef9474efcb47fabe3c0be11d7bde9a773ec32dfb68486bddef964647ac7" /></p>
+<h3>Формат ввода</h3>
+<div>
+<p>На вход подается строка, состоящая из цифр 2-9 включительно. Длина строки не превосходит 10 символов.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите все возможные комбинации букв через пробел.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+23
+</pre>
+</td>
+<td>
+<pre>
+ad ae af bd be bf cd ce cf
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/C_subsequence.py">C. Подпоследовательность</a></h2></summary>
+<p>Гоша любит играть в игру &laquo;Подпоследовательность&raquo;: даны 2 строки, и нужно понять, является ли первая из них подпоследовательностью второй. Когда строки достаточно длинные, очень трудно получить ответ на этот вопрос, просто посмотрев на них. Помогите Гоше написать функцию, которая решает эту задачу.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записана строка s.</p>
+<p>Во второй &mdash;- строка t.</p>
+<p>Обе строки состоят из маленьких латинских букв, длины строк не превосходят 150000. Строки не могут быть пустыми.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите True, если s является подпоследовательностью t, иначе &mdash;&ndash; False.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+abc
+ahbgdcu
+</pre>
+</td>
+<td>
+<pre>
+True
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/D_cookies.py">D. Печеньки</a></h2></summary>
+<p>К Васе в гости пришли одноклассники. Его мама решила угостить ребят печеньем.</p>
+<p>Но не всё так просто. Печенья могут быть разного размера. А у каждого ребёнка есть фактор жадности &mdash;&ndash; минимальный размер печенья, которое он возьмёт. Нужно выяснить, сколько ребят останутся довольными в лучшем случае, когда они действуют оптимально.</p>
+<p>Каждый ребёнок может взять не больше одного печенья.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записано n &mdash;&ndash; количество детей.</p>
+<p>Во второй &mdash;&ndash; n чисел, разделённых пробелом, каждое из которых &ndash;&mdash; фактор жадности ребёнка. Это натуральные числа, не превосходящие 1000.</p>
+<p>В следующей строке записано число m &ndash;&mdash; количество печенек.</p>
+<p>Далее &mdash;&ndash; m натуральных чисел, разделённых пробелом &mdash;&ndash; размеры печенек. Размеры печенек не превосходят 1000.</p>
+<p>Оба числа n и m не превосходят 10000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Нужно вывести одно число &ndash;&mdash; количество детей, которые останутся довольными</p>
+</div>
+<h3>Пример 1</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+2
+1 2
+3
+2 1 3
+</pre>
+</td>
+<td>
+<pre>
+2
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/E_home_buying.py">E. Покупка домов</a></h2></summary>
+<p>Тимофей решил купить несколько домов на знаменитом среди разработчиков Алгосском архипелаге. Он нашёл n объявлений о продаже, где указана стоимость каждого дома в алгосских франках. А у Тимофея есть k франков. Помогите ему определить, какое наибольшее количество домов на Алгосах он сможет приобрести за эти деньги.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке через пробел записаны натуральные числа n и k.</p>
+<p>n &mdash; количество домов, которые рассматривает Тимофей, оно не превосходит 100000;</p>
+<p>k &mdash; общий бюджет, не превосходит 100000;</p>
+<p>В следующей строке через пробел записано n стоимостей домов. Каждое из чисел не превосходит 100000. Все стоимости &mdash; натуральные числа.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите одно число &mdash;&ndash; наибольшее количество домов, которое может купить Тимофей.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3 300
+999 999 999</pre>
+</td>
+<td>
+<pre>
+0
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/F_triangle_perimeter.py">F. Периметр треугольника</a></h2></summary>
+<p>Перед сном Рита решила поиграть в игру на телефоне. Дан массив целых чисел, в котором каждый элемент обозначает длину стороны треугольника. Нужно определить максимально возможный периметр треугольника, составленного из сторон с длинами из заданного массива. Помогите Рите скорее закончить игру и пойти спать.</p>
+<p>Напомним, что из трёх отрезков с длинами a &le; b &le; c можно составить треугольник, если выполнено неравенство треугольника: c &lt; a + b</p>
+<p>Разберём пример:<br />даны длины сторон 6, 3, 3, 2. Попробуем в качестве наибольшей стороны выбрать&nbsp;6. Неравенство треугольника не может выполниться, так как остались 3, 3, 2 &mdash;&ndash; максимальная сумма из них равна 6.</p>
+<p>Без шестёрки оставшиеся три отрезка уже образуют треугольник со сторонами&nbsp;3, 3, 2. Неравенство выполняется:&nbsp;3 &lt; 3 + 2. Периметр равен 3 + 3 + 2 = 8.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записано количество отрезков&nbsp;n, 3&le; n&le; 10000.</p>
+<p>Во второй строке записано&nbsp;n&nbsp;неотрицательных чисел, не превосходящих&nbsp;10 000, &ndash;&mdash; длины отрезков.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Нужно вывести одно число &mdash;&ndash; наибольший периметр треугольника.</p>
+<p>Гарантируется, что тройка чисел, которая может образовать треугольник, всегда есть.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+4
+6 3 3 2</pre>
+</td>
+<td>
+<pre>
+8
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/G_cloakroom.py">G. Гардероб</a></h2></summary>
+<p>Рита решила оставить у себя одежду только трёх цветов: розового, жёлтого и малинового. После того как вещи других расцветок были убраны, Рита захотела отсортировать свой новый гардероб по цветам. Сначала должны идти вещи розового цвета, потом &mdash;&ndash; жёлтого, и в конце &mdash;&ndash; малинового. Помогите Рите справиться с этой задачей.</p>
+<p>Примечание: попробуйте решить задачу за один проход по массиву!</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке задано количество предметов в гардеробе: n &ndash;&mdash; оно не превосходит 1000000. Во второй строке даётся массив, в котором указан цвет для каждого предмета. Розовый цвет обозначен 0, жёлтый &mdash;&ndash; 1, малиновый &ndash;&mdash; 2.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Нужно вывести в строку через пробел цвета предметов в правильном порядке.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+7
+0 2 1 2 0 0 1</pre>
+</td>
+<td>
+<pre>
+0 0 0 1 1 2 2
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/H_large_number.py">H. Большое число</a></h2></summary>
+<p>Вечером ребята решили поиграть в игру &laquo;Большое число&raquo;. <br />Даны числа. Нужно определить, какое самое большое число можно из них составить.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке записано n &mdash; количество чисел. Оно не превосходит 100.<br />Во второй строке через пробел записаны n неотрицательных чисел, каждое из которых не превосходит 1000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Нужно вывести самое большое число, которое можно составить из данных чисел.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+3
+15 56 2
+</pre>
+</td>
+<td>
+<pre>
+56215
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/I_conference lovers.py">I. Любители конференций</a></h2></summary>
+<p>На IT-конференции присутствовали студенты из разных вузов со всей страны. Для каждого студента известен ID университета, в котором он учится.</p>
+<p>Тимофей предложил Рите выяснить, из каких k вузов на конференцию пришло больше всего учащихся.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано количество студентов в списке &mdash;&ndash; n (1 &le; n &le; 15 000).</p>
+<p>Во второй строке через пробел записаны n целых чисел &mdash;&ndash; ID вуза каждого студента. Каждое из чисел находится в диапазоне от 0 до 10 000.</p>
+<p>В третьей строке записано одно число k.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите через пробел k ID вузов с максимальным числом участников. Они должны быть отсортированы по убыванию популярности (по количеству гостей от конкретного вуза). Если более одного вуза имеет одно и то же количество учащихся, то выводить их ID нужно в порядке возрастания.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+7
+1 2 3 1 2 3 4
+3
+</pre>
+</td>
+<td>
+<pre>
+1 2 3
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/J_Bubble_sort lovers.py">J. Пузырёк</a></h2></summary>
+<p>Чтобы выбрать самый лучший алгоритм для решения задачи, Гоша продолжил изучать разные сортировки. На очереди сортировка пузырьком &mdash; <a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8C%D0%BA%D0%BE%D0%BC">https://ru.wikipedia.org/wiki/Сортировка_пузырьком</a></p>
+<p>Её алгоритм следующий (сортируем по неубыванию):</p>
+<ol>
+<li>На каждой итерации проходим по массиву, поочередно сравнивая пары соседних элементов. Если элемент на позиции i больше элемента на позиции i + 1, меняем их местами. После первой итерации самый большой элемент всплывёт в конце массива.</li>
+<li>Проходим по массиву, выполняя указанные действия до тех пор, пока на очередной итерации не окажется, что обмены больше не нужны, то есть массив уже отсортирован.</li>
+<li>После не более чем n &ndash; 1 итераций выполнение алгоритма заканчивается, так как на каждой итерации хотя бы один элемент оказывается на правильной позиции.</li>
+</ol>
+<p><br />Помогите Гоше написать код алгоритма.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке на вход подаётся натуральное число n &mdash; длина массива, 2 &le; n &le; 1000.<br /> Во второй строке через пробел записано n целых чисел.<br /> Каждое из чисел по модулю не превосходит 1000.<br /> <br />Обратите внимание, что считывать нужно только 2 строки: значение n и входной массив.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>После каждого прохода по массиву, на котором какие-то элементы меняются местами, выводите его промежуточное состояние.<br /> Таким образом, если сортировка завершена за k меняющих массив итераций, то надо вывести k строк по n чисел в каждой &mdash; элементы массива после каждой из итераций.</p>
+<p>Если массив был изначально отсортирован, то просто выведите его.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+5
+4 3 9 2 1</pre>
+</td>
+<td>
+<pre>
+3 4 2 1 9
+3 2 1 4 9
+2 1 3 4 9
+1 2 3 4 9
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/K_merge_sorting lovers.py">K. Сортировка слиянием</a></h2></summary>
+<div>Гоше дали задание написать красивую сортировку слиянием. Поэтому Гоше обязательно надо реализовать отдельно функцию merge и функцию merge_sort.
+<ul>
+<li>Функция merge принимает два отсортированных массива, сливает их в один отсортированный массив и возвращает его. Если требуемая сигнатура имеет вид merge(array, left, mid, right), то первый массив задаётся полуинтервалом [left,mid) массива array, а второй &ndash; полуинтервалом [mid,right) массива array.</li>
+<li>Функция merge_sort принимает некоторый подмассив, который нужно отсортировать. Подмассив задаётся полуинтервалом &mdash; его началом и концом. Функция должна отсортировать передаваемый в неё подмассив, она ничего не возвращает.</li>
+<li>Функция merge_sort разбивает полуинтервал на две половинки и рекурсивно вызывает сортировку отдельно для каждой. Затем два отсортированных массива сливаются в один с помощью merge.</li>
+</ul>
+<p>Заметьте, что в функции передаются именно полуинтервалы [begin,end), то есть правый конец не включается. Например, если вызвать merge_sort(arr, 0, 4), где arr=[4,5,3,0,1,2], то будут отсортированы только первые четыре элемента, изменённый массив будет выглядеть как arr=[0,3,4,5,1,2]. </p>
+<p>Реализуйте эти две функции. </p>
+<p>Мы рекомендуем воспользоваться заготовками кода для данной задачи, расположенными по <a href="https://disk.yandex.ru/d/ZZUss9NZoyRwwg">ссылке</a>.</p>
+</div>
+<h2>Формат ввода</h2>
+<div>Передаваемый в функции массив состоит из целых чисел, не превосходящих по модулю 109. Длина сортируемого диапазона не превосходит 105.</div>
+<h2>Формат вывода</h2>
+<div>При написании и отправке решений соблюдайте следующие правила:
+<ul>
+<li>Отправляйте решение в виде файла. Если текст решения будет вставлен в форму, то будет возвращена ошибка.</li>
+<li>В качестве компилятора выберите Make.</li>
+<li>На Java назовите файл с решением Solution.java и реализуйте внутри класса указанные функции, для C# &ndash; Solution.cs</li>
+<li>Для остальных решений не используйте в качестве имени файла слово solution</li>
+<li>Укажите правильное разрешение для файла (.cpp, .java, .go. .js, .py). Для решений на C++ разрешение .h не поддерживается.</li>
+</ul>
+<p>Ниже приведены сигнатуры функций, которые необходимо реализовать, для различных языков программирования. <br />C++<br /> </p>
+<div>using&nbsp;Iterator&nbsp;=&nbsp;std::vector&lt;int&gt;::iterator;&nbsp;<br />using&nbsp;CIterator&nbsp;=&nbsp;std::vector&lt;int&gt;::const_iterator;&nbsp;<br />std::vector&lt;int&gt;&nbsp;merge(CIterator&nbsp;left_begin,&nbsp;CIterator&nbsp;left_end,&nbsp;<br /> CIterator&nbsp;right_begin,&nbsp;CIterator&nbsp;right_end);&nbsp;<br />void&nbsp;merge_sort(Iterator&nbsp;begin,&nbsp;Iterator&nbsp;end);</div>
+<p>Java </p>
+<div>public&nbsp;class&nbsp;Solution&nbsp;{&nbsp;<br /> public&nbsp;static&nbsp;int[]&nbsp;merge(int[]&nbsp;arr,&nbsp;int&nbsp;left,&nbsp;int&nbsp;mid,&nbsp;int&nbsp;right);&nbsp;<br /> public&nbsp;static&nbsp;void&nbsp;merge_sort(int[]&nbsp;arr,&nbsp;int&nbsp;left,&nbsp;int&nbsp;right);&nbsp;<br />}</div>
+<p>Python </p>
+<div>merge(arr:&nbsp;list,&nbsp;left:&nbsp;int,&nbsp;mid:&nbsp;int,&nbsp;right:&nbsp;int)&nbsp;-&gt;&nbsp;array&nbsp;<br />merge_sort(arr:&nbsp;list,&nbsp;left:&nbsp;int,&nbsp;right:&nbsp;int)&nbsp;-&gt;&nbsp;None</div>
+<p>Go </p>
+<div>package&nbsp;main&nbsp;<br />func&nbsp;merge(arr&nbsp;[]int,&nbsp;lf&nbsp;int,&nbsp;mid&nbsp;int,&nbsp;rg&nbsp;int)&nbsp;[]int&nbsp;<br />func&nbsp;merge_sort(arr&nbsp;[]int,&nbsp;lf&nbsp;int,&nbsp;rg&nbsp;int)</div>
+<p>JavaScript </p>
+<div>merge&nbsp;::&nbsp;(Array&nbsp;arr,&nbsp;Number&nbsp;lf,&nbsp;Number&nbsp;mid,&nbsp;Number&nbsp;rg)&nbsp;-&gt;&nbsp;Array&nbsp;<br />merge_sort&nbsp;::&nbsp;(Array&nbsp;arr,&nbsp;Number&nbsp;lf,&nbsp;Number&nbsp;rg)&nbsp;-&gt;&nbsp;void</div>
+</div>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/L_two_bicycles.py">L. Два велосипеда</a></h2></summary>
+<p>Вася решил накопить денег на два одинаковых велосипеда &mdash; себе и сестре. У Васи есть копилка, в которую каждый день он может добавлять деньги (если, конечно, у него есть такая финансовая возможность). В процессе накопления Вася не вынимает деньги из копилки.</p>
+<p>У вас есть информация о росте Васиных накоплений &mdash; сколько у Васи в копилке было денег в каждый из дней.</p>
+<p>Ваша задача &mdash; по заданной стоимости велосипеда определить</p>
+<ul>
+<li>первый день, в которой Вася смог бы купить один велосипед,</li>
+<li>и первый день, в который Вася смог бы купить два велосипеда.</li>
+</ul>
+<p>Подсказка: решение должно работать за O(log n).</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано число дней n, по которым велись наблюдения за Васиными накоплениями. 1 &le; n &le; 10<sup>6</sup>.</p>
+<p>В следующей строке записаны n целых неотрицательных чисел. Числа идут в порядке неубывания. Каждое из чисел не превосходит 10<sup>6</sup>.</p>
+<p>В третьей строке записано целое положительное число s &mdash; стоимость велосипеда. Это число не превосходит 10<sup>6</sup>.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Нужно вывести два числа &mdash; номера дней по условию задачи.</p>
+<p>Если необходимой суммы в копилке не нашлось, нужно вернуть -1 вместо номера дня.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+6
+1 2 4 4 6 8
+3
+</pre>
+</td>
+<td>
+<pre>
+3 5
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/N_flowerbeds.py">N. Клумбы</a></h2></summary>
+<p>Алла захотела, чтобы у неё под окном были узкие клумбы с тюльпанам. На схеме земельного участка клумбы обозначаются просто горизонтальными отрезками, лежащими на одной прямой. Для ландшафтных работ было нанято n садовников. Каждый из них обрабатывал какой-то отрезок на схеме. Процесс был организован не очень хорошо, иногда один и тот же отрезок или его часть могли быть обработаны сразу несколькими садовниками. Таким образом, отрезки, обрабатываемые двумя разными садовниками, сливаются в один. Непрерывный обработанный отрезок затем станет клумбой. Нужно определить границы будущих клумб.</p>
+<p>Рассмотрим примеры.</p>
+<p>Пример 1:<br />Два одинаковых отрезка [7,8] и [7,8] сливаются в один, но потом их накрывает отрезок [6,10]. Таким образом, имеем две клумбы с координатами [2,3] и [6,10].</p>
+<p>Пример 2<br />Отрезки [2,3], [3,4] и [3,4] сольются в один отрезок [2,4]. Отрезок [5,6] ни с кем не объединяется, добавляем его в ответ.</p>
+<h3>Формат ввода</h3>
+<div>В первой строке задано количество садовников n. Число садовников не превосходит 100000.
+<p>В следующих n строках через пробел записаны координаты клумб в формате:&nbsp;start end, где start &mdash;&ndash; координата начала, end &mdash;&ndash; координата конца. Оба числа целые, неотрицательные и не превосходят 107. start строго меньше, чем end.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>Нужно вывести координаты каждой из получившихся клумб в отдельных строках. Данные должны выводится в отсортированном порядке &mdash;&ndash; сначала клумбы с меньшими координатами, затем &mdash;&ndash; с бОльшими.</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+4
+7 8
+7 8
+2 3
+6 10
+</pre>
+</td>
+<td>
+<pre>
+2 3
+6 10
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/final_search_in_broken_array.py">A. Поиск в сломанном массиве</a></h2></summary>
+<p>Алла ошиблась при копировании из одной структуры данных в другую. Она хранила массив чисел в кольцевом буфере.&nbsp;Массив был отсортирован по возрастанию, и в нём можно было найти элемент за логарифмическое время. Алла скопировала данные из кольцевого буфера в обычный массив, но сдвинула данные исходной отсортированной последовательности. Теперь массив не является отсортированным. Тем не менее, нужно обеспечить возможность находить в нем элемент за O(logn).</p>
+<p>Можно предполагать, что в массиве только уникальные элементы.</p>
+<p>Задачу необходимо сдавать с компилятором Make, он выбран по умолчанию, других компиляторов в задаче нет. Решение отправляется файлом. Требуемые сигнатуры функций лежат в заготовках кода на диске.</p>
+<p>От вас требуется реализовать функцию, осуществляющую поиск в сломанном массиве. Файлы с заготовками кода, содержащими сигнатуры функций и базовый тест для поддерживаемых языков, находятся на Яндекс.Диске по <a href="https://disk.yandex.ru/d/d7C1HkKCNrDg8g">ссылке</a>. Обратите внимание, что считывать данные и выводить ответ не требуется.</p>
+<p>Расширение файла должно соответствовать языку, на котором вы пишете (.cpp, .java, .go, .js, .py). Если вы пишете на Java, назовите файл с решением Solution.java, для C# &ndash; Solution.cs. Для остальных языков название может быть любым, кроме solution.ext, где ext &ndash; разрешение для вашего языка.</p>
+<h3>Формат ввода</h3>
+<div>Функция принимает массив натуральных чисел и искомое число k. Длина массива не превосходит 10000. Элементы массива и число k не превосходят по значению 10000.
+<p>В примерах:</p>
+<p>В первой строке записано число n &ndash;&mdash; длина массива.</p>
+<p>Во второй строке записано положительное число k &ndash;&mdash; искомый элемент.&nbsp;</p>
+<p>Далее в строку через пробел записано n натуральных чисел &ndash; элементы массива.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>Функция должна вернуть индекс элемента, равного k, если такой есть в массиве (нумерация с нуля). Если элемент не найден, функция должна вернуть &minus;1.
+<p>Изменять массив нельзя.</p>
+<p>Для отсечения неэффективных решений ваша функция будет запускаться от 100000 до 1000000 раз.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+9
+5
+19 21 100 101 1 4 5 7 12
+</pre>
+</td>
+<td>
+<pre>
+6
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="2-Recursions/final_efficient_quick_sorting.py">B. Эффективная быстрая сортировка</a></h2></summary>
+<p>Тимофей решил организовать соревнование по спортивному программированию, чтобы найти талантливых стажёров. Задачи подобраны, участники зарегистрированы, тесты написаны. Осталось придумать, как в конце соревнования будет определяться победитель.</p>
+<p>Каждый участник имеет уникальный логин. Когда соревнование закончится, к нему будут привязаны два показателя: количество решённых задач P<sub>i</sub> и размер штрафа F<sub>i</sub>. Штраф начисляется за неудачные попытки и время, затраченное на задачу.</p>
+<p>Тимофей решил сортировать таблицу результатов следующим образом: при сравнении двух участников выше будет идти тот, у которого решено больше задач. При равенстве числа решённых задач первым идёт участник с меньшим штрафом. Если же и штрафы совпадают, то первым будет тот, у которого логин идёт раньше в алфавитном (лексикографическом) порядке.</p>
+<p>Тимофей заказал толстовки для победителей и накануне поехал за ними в магазин. В своё отсутствие он поручил вам реализовать алгоритм быстрой сортировки (англ. quick sort) для таблицы результатов. Так как Тимофей любит спортивное программирование и не любит зря расходовать оперативную память, то ваша реализация сортировки не может потреблять O(n) дополнительной памяти для промежуточных данных (такая модификация быстрой сортировки называется "in-place"). <br /><br />Как работает in-place quick sort<br /> Как и в случае обычной быстрой сортировки, которая использует дополнительную память, необходимо выбрать опорный элемент (англ. pivot), а затем переупорядочить массив. Сделаем так, чтобы сначала шли элементы, не превосходящие опорного, а затем &mdash;&ndash; большие опорного.</p>
+<p>Затем сортировка вызывается рекурсивно для двух полученных частей. Именно на этапе разделения элементов на группы в обычном алгоритме используется дополнительная память. Теперь разберёмся, как реализовать этот шаг in-place.</p>
+<p>Пусть мы как-то выбрали опорный элемент. Заведём два указателя left и right, которые изначально будут указывать на левый и правый концы отрезка соответственно. Затем будем двигать левый указатель вправо до тех пор, пока он указывает на элемент, меньший опорного. Аналогично двигаем правый указатель влево, пока он стоит на элементе, превосходящем опорный. В итоге окажется, что что левее от left все элементы точно принадлежат первой группе, а правее от right &mdash; второй. Элементы, на которых стоят указатели, нарушают порядок. Поменяем их местами (в большинстве языков программирования используется функция swap()) и продвинем указатели на следующие элементы. Будем повторять это действие до тех пор, пока left и right не столкнутся. <br /> На рисунке представлен пример разделения при pivot=5. Указатель left &mdash; голубой, right &mdash; оранжевый. <img src="https://contest.yandex.ru/testsys/statement-image?imageId=79587b4867d6af95afb4a295be8023fa21036db1cfa1b70b2768309a1fdb8ad4" /></p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке задано число участников n, 1 &le; n &le; 100 000. <br />В каждой из следующих n строк задана информация про одного из участников.<br /> i-й участник описывается тремя параметрами:</p>
+<ul>
+<li>уникальным логином (строкой из маленьких латинских букв длиной не более 20)</li>
+<li>числом решённых задач P<sub>i</sub></li>
+<li>штрафом F<sub>i</sub></li>
+</ul>
+F<sub>i</sub> и P<sub>i</sub> &mdash; целые числа, лежащие в диапазоне от 0 до 10<sup>9</sup>.
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Для отсортированного списка участников выведите по порядку их логины по одному в строке.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+5
+alla 4 100
+gena 6 1000
+gosha 2 90
+rita 2 90
+timofey 4 80</pre>
+</td>
+<td>
+<pre>
+gena
+timofey
+alla
+gosha
+rita
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+
+<p>&nbsp;</p>
+
+<strong><h1><a href="3-Hash_functions">Хэш функции</a></h1></strong>
+
+<p>&nbsp;</p>
+
+<details> <summary><h2><a href="3-Hash_functions/a_Polynomial_hash.py">A. Полиномиальный хеш</a></h2></summary>
+<p>Алле очень понравился алгоритм вычисления полиномиального хеша. Помогите ей написать функцию, вычисляющую хеш строки s. В данной задаче необходимо использовать в качестве значений отдельных символов их коды в таблице ASCII.</p>
+<p>Полиномиальный хеш считается по формуле:</p>
+<div><img src="https://contest.yandex.ru/testsys/tex/render/aChzKSA9IChzXzFhXntuLTF9ICsgc18yYV57bi0yfSArIFxkb3RzICsgc197bi0xfWEgKyBzX3tufSkgXCBtb2QgXCBt.png" /></div>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано число a (1 &le; a &le; 1000) &ndash;&mdash; основание, по которому считается хеш.</p>
+<p>Во второй строке дано число m (1 &le; m &le; 10<sup>9</sup>) &ndash;&mdash; модуль.</p>
+<p>В третьей строке дана строка s (0 &le; |s| &le; 10<sup>6</sup>), состоящая из больших и маленьких латинских букв.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите целое неотрицательное число &ndash;&mdash; хеш заданной строки.</p>
+</div>
+<h3>Пример 1</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+123
+100003
+a
+</pre>
+</td>
+<td>
+<pre>
+97
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="3-Hash_functions/b_crash_polynomial_hash.py">B. Сломай меня</a></h2></summary>
+<p>Гоша написал программу, которая сравнивает строки исключительно по их хешам. Если хеш равен, то и строки равны. Тимофей увидел это безобразие и поручил вам сломать программу Гоши, чтобы остальным неповадно было.</p>
+<p>В этой задаче вам надо будет лишь найти две различные строки, которые для заданной хеш-функции будут давать одинаковое значение.</p>
+<p>Гоша использует следующую хеш-функцию:</p>
+<div><img src="https://contest.yandex.ru/testsys/tex/render/aChzKSA9IChzXzFhXntuLTF9ICsgc18yYV57bi0yfSArIC4uLiArIHNfe24tMX1hICsgc197bn0gKSBcICBtb2QgXCBt.png" /></div>
+<p>для a = 1000 и m = 123 987 123.</p>
+<p>В данной задаче необходимо использовать в качестве значений отдельных символов их коды в таблице ASCII.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В задаче единственный тест без ввода</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Отправьте две строки, по одной в строке. Строки могут состоять только из маленьких латинских букв и не должны превышать в длину 1000 знаков каждая. Код отправлять не требуется. Строки из примера использовать нельзя.</p>
+<h3>Пример вывода:</h3>
+<p>ezhgeljkablzwnvuwqvp</p>
+<p>gbpdcvkumyfxillgnqrv</p>
+</div>
+</details>
+
+<details> <summary><h2><a href="3-Hash_functions/c_prefix_hash.py">C. Префиксные хеши</a></h2></summary>
+<p>Алла не остановилась на достигнутом &ndash;&mdash; теперь она хочет научиться быстро вычислять хеши произвольных подстрок данной строки. Помогите ей!</p>
+<p>На вход поступают запросы на подсчёт хешей разных подстрок. Ответ на каждый запрос должен выполняться за O(1). Допустимо в начале работы программы сделать предподсчёт для дальнейшей работы со строкой.</p>
+<p>Напомним, что полиномиальный хеш считается по формуле</p>
+<div><img src="https://contest.yandex.ru/testsys/tex/render/aChzKSA9IChzXzFhXntuLTF9ICsgc18yYV57bi0yfSArIFxkb3RzICsgc197bi0xfWEgKyBzX3tufSkgXCBtb2QgXCBt.png" /></div>
+<p>В данной задаче необходимо использовать в качестве значений отдельных символов их коды в таблице ASCII.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>В первой строке дано число a (1 &le; a &le; 1000) &ndash;&mdash; основание, по которому считается хеш. Во второй строке дано число m (1 &le; m &le; 10<sup>7</sup>) &ndash;&mdash; модуль. В третьей строке дана строка s (0 &le; |s| &le; 10<sup>6</sup>), состоящая из больших и маленьких латинских букв.</p>
+<p>В четвертой строке дано число запросов t &ndash;&mdash; натуральное число от 1 до 10<sup>5</sup>. В каждой из следующих t строк записаны через пробел два числа l и r &ndash;&mdash; индексы начала и конца очередной подстроки. (1 &le; l &le; r &le; |s|).</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Для каждого запроса выведите на отдельной строке хеш заданной в запросе подстроки.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+1000
+1000009
+abcdefgh
+7
+1 1
+1 5
+2 3
+3 4
+4 4
+1 8
+5 8
+</pre>
+</td>
+<td>
+<pre>
+97
+225076
+98099
+99100
+100
+436420
+193195
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="3-Hash_functions/d_sections.py">D. Кружки</a></h2></summary>
+<p>В компании, где работает Тимофей, заботятся о досуге сотрудников и устраивают различные кружки по интересам. Когда кто-то записывается на занятие, в лог вносится название кружка.</p>
+<p>По записям в логе составьте список всех кружков, в которые ходит хотя бы один человек.</p>
+<h2>Формат ввода</h2>
+<div>
+<p>В первой строке даётся натуральное число n, не превосходящее 10 000 &ndash;&mdash; количество записей в логе.</p>
+<p>В следующих n строках &mdash;&ndash; названия кружков.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите уникальные названия кружков по одному на строке, в порядке появления во входных данных.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>8
+вышивание крестиком
+рисование мелками на парте
+настольный керлинг
+настольный керлинг
+кухня африканского племени ужасмай
+тяжелая атлетика
+таракановедение
+таракановедение
+</pre>
+</td>
+<td>
+<pre>вышивание крестиком
+рисование мелками на парте
+настольный керлинг
+кухня африканского племени ужасмай
+тяжелая атлетика
+таракановедение
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
+
+<details> <summary><h2><a href="3-Hash_functions/e_substrings.py">E. Подстроки</a></h2></summary>
+<p>На вход подается строка. Нужно определить длину наибольшей подстроки, которая не содержит повторяющиеся символы.</p>
+<h3>Формат ввода</h3>
+<div>
+<p>Одна строка, состоящая из строчных латинских букв. Длина строки не превосходит 10 000.</p>
+</div>
+<h3>Формат вывода</h3>
+<div>
+<p>Выведите натуральное число &mdash;&ndash; ответ на задачу.</p>
+</div>
+<h3>Пример</h3>
+<table>
+<thead>
+<tr>
+<th>Ввод</th>
+<th>Вывод</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<pre>
+abcabcbb
+</pre>
+</td>
+<td>
+<pre>
+3
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
+</details>
